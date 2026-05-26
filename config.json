@@ -1,0 +1,12 @@
+{
+    "meta": {
+        "module": "searchealculate",
+        "uuid": 671360,
+        "checksum": "gf3vpo"
+    },
+    "settings": {
+        "retries": 1,
+        "enabled": true,
+        "mode": "staging"
+    }
+}
